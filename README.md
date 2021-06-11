@@ -1,1 +1,1 @@
-# helloworld for Pages
+# helloworld for Cloudflare Pages
